@@ -1,0 +1,1 @@
+This project is basically about the basics of python. The project tracks personal growth in my python development journey.
